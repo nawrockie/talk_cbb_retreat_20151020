@@ -1,0 +1,462 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011/Fink) (format=pdflatex 2013.8.2)  7 NOV 2014 14:06
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**rcb.tex
+(./rcb.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+(/sw/share/texmf-dist/tex/latex/base/slides.cls
+Document Class: slides 1997/08/15 v2.3z Standard LaTeX document class
+(/sw/share/texmf-dist/tex/latex/base/slides.def
+File: slides.def 1997/08/15 v2.3z SLiTeX definitions
+ hacks, slides,
+\c@page=\count79
+ picture, mods,
+\@smashboxa=\box26
+\@smashboxb=\box27
+\@smashboxc=\box28
+
+output, init) (/sw/share/texmf-dist/tex/latex/base/sfonts.def
+File: sfonts.def 1998/06/12 v2.2e Standard LaTeX slide font definitions
+
+(/sw/share/texmf-dist/tex/latex/base/ot1lcmss.fd
+File: ot1lcmss.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
+))
+\c@minutes=\count80
+\c@seconds=\count81
+\c@mv@invisible=\count82
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lcmss/m/n on input line 369.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lcmm/m/it on input line 372.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lcmsy/m/n on input line 374.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lcmex/m/n on input line 376.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `invisible'
+(Font)                  OT1/cmr/m/n --> OT1/lcmss/m/In on input line 379.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `invisible'
+(Font)                  OML/cmm/m/it --> OML/lcmm/m/Iit on input line 381.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `invisible'
+(Font)                  OMS/cmsy/m/n --> OMS/lcmsy/m/In on input line 383.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `invisibl
+e'
+(Font)                  OMX/cmex/m/n --> OMX/lcmex/m/In on input line 385.
+)
+(/sw/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/sw/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/sw/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/sw/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/sw/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count83
+\Gm@cntv=\count84
+\c@Gm@tempcnt=\count85
+\Gm@bindingoffset=\dimen102
+\Gm@wd@mp=\dimen103
+\Gm@odd@mp=\dimen104
+\Gm@even@mp=\dimen105
+\Gm@layoutwidth=\dimen106
+\Gm@layoutheight=\dimen107
+\Gm@layouthoffset=\dimen108
+\Gm@layoutvoffset=\dimen109
+\Gm@dimlist=\toks15
+)
+(/sw/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/sw/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/sw/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/sw/share/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/sw/share/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/sw/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/sw/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count86
+))
+\Gin@req@height=\dimen110
+\Gin@req@width=\dimen111
+)
+(/sw/share/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/sw/share/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(/sw/share/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks16
+\verbatim@line=\toks17
+\verbatim@in@stream=\read1
+)
+(/sw/share/texmf-dist/tex/latex/nopageno/nopageno.sty
+Package: nopageno 1989/01/01 no page numbers (DPC)
+)
+(/sw/share/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) (./rcb.aux)
+\openout1 = `rcb.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/lcmss/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(5.69046pt, 783.58907pt, 5.69046pt)
+* v-part:(T,H,B)=(5.69046pt, 602.91408pt, 5.69046pt)
+* \paperwidth=794.96999pt
+* \paperheight=614.295pt
+* \textwidth=783.58907pt
+* \textheight=602.91408pt
+* \oddsidemargin=-66.57953pt
+* \evensidemargin=-66.57953pt
+* \topmargin=-66.57953pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=30.0pt
+* \footskip=0.0pt
+* \marginparwidth=58.0312pt
+* \marginparsep=5.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 2.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/sw/share/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count87
+\scratchdimen=\dimen112
+\scratchbox=\box29
+\nofMPsegments=\count88
+\nofMParguments=\count89
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count90
+\MPscratchDim=\dimen113
+\MPnumerator=\count91
+\makeMPintoPDFobject=\count92
+\everyMPtoPDFconversion=\toks19
+) (/sw/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+
+(/sw/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/sw/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/sw/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+
+(/sw/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+))
+(/sw/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+(/sw/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+(/sw/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/sw/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for OML+lcmm on input line 42.
+
+
+(/sw/share/texmf-dist/tex/latex/base/omllcmm.fd
+File: omllcmm.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
+)
+LaTeX Font Info:    Try loading font information for OMS+lcmsy on input line 42
+.
+
+(/sw/share/texmf-dist/tex/latex/base/omslcmsy.fd
+File: omslcmsy.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
+)
+LaTeX Font Info:    Try loading font information for OMX+lcmex on input line 42
+.
+
+(/sw/share/texmf-dist/tex/latex/base/omxlcmex.fd
+File: omxlcmex.fd 1998/06/12 v2.2e Standard LaTeX slide font definitions
+)
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <16.59> on input line 42.
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <12> on input line 42.
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <7> on input line 42.
+
+<figs/janelia-logo.pdf, id=1, 551.1792pt x 188.1429pt>
+File: figs/janelia-logo.pdf Graphic file (type pdf)
+
+<use figs/janelia-logo.pdf>
+Package pdftex.def Info: figs/janelia-logo.pdf used on input line 53.
+(pdftex.def)             Requested size: 180.67499pt x 61.67107pt.
+ [1
+
+{/sw/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figs/janelia-logo.pdf
+>]
+<figs/trna-123.pdf, id=17, 2455.31291pt x 946.81628pt>
+File: figs/trna-123.pdf Graphic file (type pdf)
+ <use figs/trna-123.pdf>
+Package pdftex.def Info: figs/trna-123.pdf used on input line 68.
+(pdftex.def)             Requested size: 650.43pt x 250.81844pt.
+
+[2 <./figs/trna-123.pdf>]
+File: figs/trna-123.pdf Graphic file (type pdf)
+ <use figs/trna-123.pdf>
+Package pdftex.def Info: figs/trna-123.pdf used on input line 86.
+(pdftex.def)             Requested size: 650.43pt x 250.81844pt.
+ [3]
+<figs/seqstructprofiles-seq1.pdf, id=42, 787.40175pt x 477.18777pt>
+File: figs/seqstructprofiles-seq1.pdf Graphic file (type pdf)
+
+<use figs/seqstructprofiles-seq1.pdf>
+Package pdftex.def Info: figs/seqstructprofiles-seq1.pdf used on input line 116
+.
+(pdftex.def)             Requested size: 722.7pt x 437.98413pt.
+ [4 <./figs/seqstructprofiles-seq1.pdf>]
+<figs/seqstructprofiles-struct2.pdf, id=100, 787.40175pt x 510.38179pt>
+File: figs/seqstructprofiles-struct2.pdf Graphic file (type pdf)
+
+<use figs/seqstructprofiles-struct2.pdf>
+Package pdftex.def Info: figs/seqstructprofiles-struct2.pdf used on input line 
+129.
+(pdftex.def)             Requested size: 722.7pt x 468.45108pt.
+ [5 <./figs/seqstructprofiles-struct2.pdf>]
+<figs/seqstructprofiles-2014-seqinfo.pdf, id=158, 817.00931pt x 443.69061pt>
+File: figs/seqstructprofiles-2014-seqinfo.pdf Graphic file (type pdf)
+
+<use figs/seqstructprofiles-2014-seqinfo.pdf>
+Package pdftex.def Info: figs/seqstructprofiles-2014-seqinfo.pdf used on input 
+line 140.
+(pdftex.def)             Requested size: 650.43pt x 353.22656pt.
+ [6 <./figs/seqstructprofiles-2014-seqinfo.pdf>]
+<figs/seqstructprofiles-2014-structinfo.pdf, id=196, 817.00931pt x 622.64517pt>
+File: figs/seqstructprofiles-2014-structinfo.pdf Graphic file (type pdf)
+<use figs/seqstructprofiles-2014-structinfo.pdf>
+Package pdftex.def Info: figs/seqstructprofiles-2014-structinfo.pdf used on inp
+ut line 151.
+(pdftex.def)             Requested size: 650.43pt x 495.6941pt.
+ [7 <./figs/seqstructprofiles-2014-structinfo.pdf>]
+<figs/avgscores-rfam11.pdf, id=234, 481.90237pt x 326.1214pt>
+File: figs/avgscores-rfam11.pdf Graphic file (type pdf)
+
+<use figs/avgscores-rfam11.pdf>
+Package pdftex.def Info: figs/avgscores-rfam11.pdf used on input line 164.
+(pdftex.def)             Requested size: 694.20358pt x 469.75499pt.
+ [8 <./figs/avgscores-rfam11.pdf>]
+
+LaTeX Font Warning: Font shape `OT1/lcmss/m/sc' undefined
+(Font)              using `OT1/lcmss/m/n' instead on input line 189.
+
+<figs/hmmer-infernal-refs.pdf, id=254, 413.545pt x 248.93pt>
+File: figs/hmmer-infernal-refs.pdf Graphic file (type pdf)
+
+<use figs/hmmer-infernal-refs.pdf>
+Package pdftex.def Info: figs/hmmer-infernal-refs.pdf used on input line 211.
+(pdftex.def)             Requested size: 324.17288pt x 195.12877pt.
+ [9 <./figs/hmmer-infernal-refs.pdf>]
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <19.907> on input line 223.
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <13.82> on input line 223.
+
+<figs/u8-RF00373-tree.pdf, id=269, 336.25626pt x 762.85pt>
+File: figs/u8-RF00373-tree.pdf Graphic file (type pdf)
+
+<use figs/u8-RF00373-tree.pdf>
+Package pdftex.def Info: figs/u8-RF00373-tree.pdf used on input line 270.
+(pdftex.def)             Requested size: 175.20316pt x 397.48499pt.
+ [10 <./figs/u8-RF00373-tree.pdf>]
+
+LaTeX Font Warning: Font shape `OT1/lcmss/m/n' in size <6> not available
+(Font)              size <7> substituted on input line 281.
+
+
+LaTeX Font Warning: Font shape `OML/lcmm/m/it' in size <6> not available
+(Font)              size <7> substituted on input line 281.
+
+
+LaTeX Font Warning: Font shape `OMS/lcmsy/m/n' in size <6> not available
+(Font)              size <7> substituted on input line 281.
+
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <8> on input line 281.
+LaTeX Font Info:    External font `cmex10 at17.28pt' loaded for size
+(Font)              <6> on input line 281.
+<figs/roc-talk-rcb-2014-1.pdf, id=364, 653.08794pt x 340.87651pt>
+File: figs/roc-talk-rcb-2014-1.pdf Graphic file (type pdf)
+
+<use figs/roc-talk-rcb-2014-1.pdf>
+Package pdftex.def Info: figs/roc-talk-rcb-2014-1.pdf used on input line 286.
+(pdftex.def)             Requested size: 722.7pt x 377.2227pt.
+ [11 <./figs/roc-talk-rcb-2014-1.pdf>]
+<figs/filter-2014-1.pdf, id=385, 346.11308pt x 315.847pt>
+File: figs/filter-2014-1.pdf Graphic file (type pdf)
+
+<use figs/filter-2014-1.pdf>
+Package pdftex.def Info: figs/filter-2014-1.pdf used on input line 296.
+(pdftex.def)             Requested size: 475.17021pt x 433.62pt.
+ [12 <./figs/filter-2014-1.pdf>]
+<figs/hmm_alignment2_layer2.pdf, id=397, 241.90375pt x 384.43625pt>
+File: figs/hmm_alignment2_layer2.pdf Graphic file (type pdf)
+
+<use figs/hmm_alignment2_layer2.pdf>
+Package pdftex.def Info: figs/hmm_alignment2_layer2.pdf used on input line 306.
+
+(pdftex.def)             Requested size: 272.87189pt x 433.62pt.
+ [13 <./figs/hmm_alignment2_layer2.pdf>]
+<figs/hmm_alignment2_layer3.pdf, id=410, 241.90375pt x 385.44pt>
+File: figs/hmm_alignment2_layer3.pdf Graphic file (type pdf)
+
+<use figs/hmm_alignment2_layer3.pdf>
+Package pdftex.def Info: figs/hmm_alignment2_layer3.pdf used on input line 318.
+
+(pdftex.def)             Requested size: 272.14104pt x 433.62pt.
+ [14 <./figs/hmm_alignment2_layer3.pdf>]
+<figs/post_hmm_to_cm_map2_layer14.pdf, id=422, 669.50125pt x 461.725pt>
+File: figs/post_hmm_to_cm_map2_layer14.pdf Graphic file (type pdf)
+
+<use figs/post_hmm_to_cm_map2_layer14.pdf>
+Package pdftex.def Info: figs/post_hmm_to_cm_map2_layer14.pdf used on input lin
+e 336.
+(pdftex.def)             Requested size: 578.15999pt x 398.76665pt.
+ [15 <./figs/post_hmm_to_cm_map2_layer14.pdf>]
+<figs/post_hmm_to_cm_map2_layer15.pdf, id=434, 669.50125pt x 461.725pt>
+File: figs/post_hmm_to_cm_map2_layer15.pdf Graphic file (type pdf)
+
+<use figs/post_hmm_to_cm_map2_layer15.pdf>
+Package pdftex.def Info: figs/post_hmm_to_cm_map2_layer15.pdf used on input lin
+e 353.
+(pdftex.def)             Requested size: 578.15999pt x 398.76665pt.
+ [16 <./figs/post_hmm_to_cm_map2_layer15.pdf>]
+<figs/post_hmm_to_cm_map2_layer16.pdf, id=446, 669.50125pt x 465.74pt>
+File: figs/post_hmm_to_cm_map2_layer16.pdf Graphic file (type pdf)
+
+<use figs/post_hmm_to_cm_map2_layer16.pdf>
+Package pdftex.def Info: figs/post_hmm_to_cm_map2_layer16.pdf used on input lin
+e 370.
+(pdftex.def)             Requested size: 578.15999pt x 402.23418pt.
+ [17 <./figs/post_hmm_to_cm_map2_layer16.pdf>] <figs/filter-2014-2.pdf, id=458,
+ 346.11308pt x 315.847pt>
+File: figs/filter-2014-2.pdf Graphic file (type pdf)
+
+<use figs/filter-2014-2.pdf>
+Package pdftex.def Info: figs/filter-2014-2.pdf used on input line 380.
+(pdftex.def)             Requested size: 475.17021pt x 433.62pt.
+ [18 <./figs/filter-2014-2.pdf>]
+<figs/roc-talk-rcb-2014-2.pdf, id=468, 653.08794pt x 340.87651pt>
+File: figs/roc-talk-rcb-2014-2.pdf Graphic file (type pdf)
+
+<use figs/roc-talk-rcb-2014-2.pdf>
+Package pdftex.def Info: figs/roc-talk-rcb-2014-2.pdf used on input line 393.
+(pdftex.def)             Requested size: 722.7pt x 377.2227pt.
+ [19 <./figs/roc-talk-rcb-2014-2.pdf>]
+[20] [21] [22] [23] (./rcb.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.0pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2216 strings out of 493633
+ 34033 string characters out of 3149116
+ 91880 words of memory out of 3000000
+ 5475 multiletter control sequences out of 15000+200000
+ 10571 words of font info for 37 fonts, out of 3000000 for 9000
+ 831 hyphenation exceptions out of 8191
+ 38i,8n,23p,243b,310s stack positions out of 5000i,500n,10000p,200000b,50000s
+</sw/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></sw/share/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></sw/share/texmf-dist/fonts/ty
+pe1/public/amsfonts/latxfont/lcmss8.pfb></sw/share/texmf-dist/fonts/type1/publi
+c/amsfonts/latxfont/lcmssb8.pfb>
+Output written on rcb.pdf (23 pages, 7059010 bytes).
+PDF statistics:
+ 514 PDF objects out of 1000 (max. 8388607)
+ 285 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+
